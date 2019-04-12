@@ -7,7 +7,6 @@ django-cors-headers
 django-heroku
 djangorestframework
 django
-dlib
 docutils
 python-dotenv
 gunicorn
