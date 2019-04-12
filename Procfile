@@ -1,1 +1,1 @@
-web: gunicorn api_practice.wsgi --log-file -
+web: pip / requirements.txt && gunicorn api_practice.wsgi --log-file -
