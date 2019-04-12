@@ -1,3 +1,4 @@
+gunicorn
 boto3
 botocore
 contextlib2
@@ -9,7 +10,6 @@ djangorestframework
 django
 docutils
 python-dotenv
-gunicorn
 jmespath
 pyhull
 python-dateutil
