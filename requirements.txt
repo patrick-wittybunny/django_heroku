@@ -1,6 +1,7 @@
 boto3
 botocore
 contextlib2
+cloudinary
 docutils
 decorator
 django-cors-headers
