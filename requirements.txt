@@ -1,0 +1,16 @@
+boto3
+botocore
+contextlib2
+docutils
+decorator
+django-cors-headers
+django-heroku
+djangorestframework
+django
+gunicorn
+jmespath
+pyhull
+python-dateutil
+raven
+six
+s3transfer
