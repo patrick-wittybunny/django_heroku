@@ -8,7 +8,7 @@ django-heroku
 djangorestframework
 django
 docutils
-dotenv
+python-dotenv
 gunicorn
 jmespath
 pyhull
