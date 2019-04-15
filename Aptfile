@@ -1,3 +1,13 @@
+build-essential
+cmake
+pkg-config
+jpeg
+libpng
 libsm6
+openexr
+eigen
+tbb
+libtiff
 libxrender1
 libfontconfig1
+libgtk-3-dev
