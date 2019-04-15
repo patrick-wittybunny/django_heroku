@@ -11,3 +11,5 @@ libtiff
 libxrender1
 libfontconfig1
 libgtk-3-dev
+libxext6
+libxrender-dev
