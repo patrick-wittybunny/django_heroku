@@ -7,14 +7,8 @@ pandas
 gunicorn
 boto3
 botocore
-cmake
-boost
-boost-py
 contextlib2
 cloudinary
-dlib
-opencv-contrib-python==3.3.0.9
-opencv-python
 decorator
 django-cors-headers
 django-heroku
