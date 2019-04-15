@@ -1,8 +1,19 @@
+numpy
+scipy
+matplotlib
+scikit-image
+scikit-learn 
+pandas
 gunicorn
 boto3
 botocore
+cmake
+boost
+boost-py
 contextlib2
 cloudinary
+dlib
+opencv-contrib-python==3.4.3.18
 decorator
 django-cors-headers
 django-heroku
@@ -16,3 +27,4 @@ python-dateutil
 raven
 six
 s3transfer
+ffmpeg
